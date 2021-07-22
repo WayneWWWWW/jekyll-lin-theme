@@ -1,11 +1,10 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Wayne's Page
+author: Wayne
+email: 1194884805@qq.com
+description: 
+  Gain growth step by step. Go forward together!  
+  Version: July 22, 2021
 copyright: © 2019 GitHub User
-description: > # this means to ignore newlines until "show_excerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
